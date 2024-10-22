@@ -1,16 +1,14 @@
-## Hi 👋 My name is Viktor Petrenko
-
-================================
+# Hi 👋 My name is Viktor Petrenko
 
 ## Junior FullStack Developer
 
-Passionate about problem-solving and creating intuitive user interfaces, I’m experienced in GIT, Scrum, and Agile methodologies, and excel in collaborative environments. My background in 🪖 frontline healthcare has sharpened my stress management, attention to detail, and sense of responsibility. Eager to contribute to a dynamic team while advancing my technical expertise.
+Passionate about problem-solving and creating intuitive user interfaces, I'm experienced in GIT, Scrum, and Agile methodologies, and excel in collaborative environments. My background in 🪖 frontline healthcare has sharpened my stress management, attention to detail, and sense of responsibility. Eager to contribute to a dynamic team while advancing my technical expertise.
 
-- 🌍  I'm based in Vinnytsia, Ukraine
-- ✉️  You can contact me at [victorpetrenkodev@gmail.com](mailto:victorpetrenkodev@gmail.com)
-- 🚀  I'm currently working on [Grann](http://https://github.com/Victor-Lars-Petrenko/grann-confectionery)
-- 🧠  I'm learning Node.js
-- ⚡  I previously studied Anesthesiology 🩺
+- 🌍 I'm based in Vinnytsia, Ukraine
+- ✉️ You can contact me at [victorpetrenkodev@gmail.com](mailto:victorpetrenkodev@gmail.com)
+- 🚀 I'm currently working on [Grann](https://github.com/Victor-Lars-Petrenko/grann-confectionery)
+- 🧠 I'm learning Node.js
+- ⚡ I have skills in basic and advanced resuscitation of adults and anesthesia care 🩺
 
 ### Skills
 
@@ -24,6 +22,12 @@ Passionate about problem-solving and creating intuitive user interfaces, I’m e
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b align="center">My GitHub Stats</b>
 
-<a href="http://www.github.com/Victor-Lars-Petrenko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Lars-Petrenko&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Victor-Lars-Petrenko" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Lars-Petrenko&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b align="center">Also</b>
+
+<div align="center">
+<a href="https://www.codewars.com/users/Victor-Lars-Petrenko"><img src="https://www.codewars.com/users/Victor-Lars-Petrenko/badges/small">
+</div>
